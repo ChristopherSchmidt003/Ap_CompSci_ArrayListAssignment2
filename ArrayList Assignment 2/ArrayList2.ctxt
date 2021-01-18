@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ArrayList2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=java.util.ArrayList\ SieveOfEratosthenes(int)
+comment3.params=primes\ g
+comment3.target=void\ GoldbachConjecture(java.util.ArrayList,\ int)
+comment4.params=b1\ b2
+comment4.target=java.util.ArrayList\ BigInts(java.util.ArrayList,\ java.util.ArrayList)
+numComments=5
